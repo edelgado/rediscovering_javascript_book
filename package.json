@@ -1,0 +1,13 @@
+{
+  "name": "rediscovering_javascript_exercises",
+  "version": "1.0.0",
+  "author": {
+    "email": "delgado.enrique@gmail.com",
+    "name": "Enrique Delgado"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}

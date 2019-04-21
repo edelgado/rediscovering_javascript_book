@@ -34,3 +34,7 @@ Temporary Items
 *.iml
 out
 gen
+
+## Other
+yarn-error.log
+node_modules/

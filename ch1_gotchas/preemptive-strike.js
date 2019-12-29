@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 
 // Thanks to `"use strict";`, this code will error out with:
 // haha = 2;
